@@ -21,3 +21,6 @@ I am a budding data analyst and data visualization enthusiast from India. Curren
 <img align="left" alt="Excel" src="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label="/>
 
 <img align="left" alt="mysql" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label="/>
+
+<img align="left" alt="tableau" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label="/>
+
