@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a budding data analyst and data visualization enthusiast from India. Currently I'm pursuing my passion for data visualization and contributing on some side projects. Aside from my technical background, I am an avid reader, who loves colors but prefer black. 🙂
+I am a budding data analyst and data visualization enthusiast from India. Currently I'm pursuing my passion for data visualization and contributing on some side projects. Aside from my technical background, I am an avid reader, who love colors but prefer black. 🙂
 - Working as a data analyst.
 - Learning Design and Color theory for my visualizations.
 ### Connect with me
