@@ -10,7 +10,7 @@
 
 #### Database
 <a><img alt ="check" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-
+<a><img alt ="check" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <!--
 **kirticism/kirticism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
